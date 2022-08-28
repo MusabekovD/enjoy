@@ -38,8 +38,9 @@ html::-webkit-scrollbar-thumb{
 .header{
     position: relative;
     max-width: 375px;
-        min-height: 800px;
+    min-height: 800px;
     background: linear-gradient(90deg, #E3FDF5 0%, #FFE6FA 100%);
+    overflow-x: hidden;
 }
 
 .navbar{
