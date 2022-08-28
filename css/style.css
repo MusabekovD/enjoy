@@ -112,6 +112,7 @@ color: #141414;
     width: 280px;
     height: 280px;
     margin-bottom: 35px;
+    margin: 0 auto;
 }
 .header-image img{
     width: 100%;
